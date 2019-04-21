@@ -5,10 +5,10 @@
 The purpose of this guide is to provided you the resources to **get all the basic skills of a PM in a few month**.
 What you will find in this guide:
 
-- Affordable resources for student: only free digital content and books under $30
-- Cherry picked resources: only the must reads and no sponsored content
-- A roadmap to guide you through this jungle
-- A few hints how to land a job as an (associate?) PM
+- **Affordable resources** for student: only free digital content and books under $30
+- **Cherry picked** resources: only the must reads and no sponsored content
+- A **roadmap to guide** you through this jungle
+- A few hints **how to land a job** as a PM
 
 ## :fire: Resources
 
