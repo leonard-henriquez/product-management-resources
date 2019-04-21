@@ -12,9 +12,9 @@ What you will find in this guide:
 
 ## :fire: Resources
 
-[Here](Resources.md) is a curated list of resources about product management
+[**Here is a curated list of resources**](Resources.md) about product management
 
-## :briefcase: Rotational programs
+## :briefcase: How to get a job
 
 - [Google APM program](https://buildyourfuture.withgoogle.com/programs/apm-program)
 
