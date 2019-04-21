@@ -1,4 +1,4 @@
-# :rocket: The Associate Product Manager handbook
+# :rocket: The APM handbook
 
 > A guide to become APM right after college
 
@@ -16,23 +16,23 @@ What you will find in this guide:
 
 ## :briefcase: How to get a job
 
-- [Google APM program](https://buildyourfuture.withgoogle.com/programs/apm-program)
-
-Deadline: multiple dates during the year
+[**Job search resources**](JobSearch.md)
 
 ---
 
-## :memo: Contributing
+## :hammer_and_wrench: Borring stuff
+
+### :memo: Contributing
 
 See the guide [here](CONTRIBUTING.md).
 
-## :star: Credits
+### :star: Credits
 
 Shamelessly inspired from:
 
 - https://github.com/ghosh/awesome-podcasts/
 - https://github.com/hugo53/awesome-ProductManager/
 
-## :scroll: License
+### :scroll: License
 
-[GNU GPLv3](LICENSE) © [Leonard Henriquez](https://github.com/leonard-henriquez/)
+[GNU GPLv3](LICENSE.md) © [Leonard Henriquez](https://github.com/leonard-henriquez/)

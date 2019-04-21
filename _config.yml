@@ -1,3 +1,5 @@
-theme: jekyll-theme-leap-day
+title: The APM Handbook
+description: A guide to become Associate Product Manager right after college
+theme: jekyll-theme-slate
 plugins:
   - jemoji
